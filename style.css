@@ -88,3 +88,6 @@ div div {
   width: 1%;
   padding: 10px;
 }
+#reset {
+  cursor: pointer;
+}
